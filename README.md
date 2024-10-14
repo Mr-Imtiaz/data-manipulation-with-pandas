@@ -22,3 +22,13 @@ To embark on your journey with the scripts in this repository, please follow the
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mr-Imtiaz/data-manipulation-with-pandas.git
+
+# Contributing to Data Manipulation with Pandas
+
+Thank you for considering contributing to the Data Manipulation with Pandas repository! Here are some guidelines to help you get started.
+
+## How to Contribute
+1. **Fork the repository**: Click the "Fork" button at the top right of the repository page.
+2. **Clone your fork**: 
+   ```bash
+   git clone https://github.com/yourusername/data-manipulation-with-pandas.git
